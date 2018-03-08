@@ -1,0 +1,39 @@
+{
+  "name": "triplet_extraction",
+  "version": "1.0.0",
+  "description": "Fetching triples from graphdb and extracting new types and relations based on the values of name,description,amenityfeature-name and -value",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borantaylan/triplet_extraction.git"
+  },
+  "keywords": [
+    "information",
+    "extraction",
+    "NLP",
+    "ontology",
+    "learning",
+    "knowledge",
+    "graph",
+    "completion"
+  ],
+  "author": "Boran Taylan BALCI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borantaylan/triplet_extraction/issues"
+  },
+  "homepage": "https://github.com/borantaylan/triplet_extraction#readme"
+}
